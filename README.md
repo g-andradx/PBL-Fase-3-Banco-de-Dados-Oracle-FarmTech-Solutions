@@ -13,11 +13,17 @@ Importar uma base de dados de sensores agrícolas para o Oracle Database utiliza
 
 Estrutura do Projeto
 fase3/
+
 README.md
+
 dados/sensores_agro.csv
+
 prints/csv.png
+
 prints/importacao.png
+
 prints/tabela.png
+
 prints/select.png
 
 Base de Dados Utilizada
