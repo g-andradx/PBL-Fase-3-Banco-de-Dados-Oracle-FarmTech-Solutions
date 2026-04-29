@@ -1,0 +1,6 @@
+id_sensor,umidade,ph,fosforo,potassio,irrigacao
+1,65.2,6.4,32,18,ON
+2,61.8,6.7,29,20,OFF
+3,70.1,6.2,35,19,ON
+4,58.9,5.9,27,16,OFF
+5,66.4,6.5,31,21,ON
