@@ -93,7 +93,7 @@ GitHub
 
 Vídeo Demonstrativo
 Link do vídeo no YouTube (não listado):
-(Adicionar link do vídeo aqui)
+https://youtu.be/Wq_opSAWDd8
 
 Conclusão
 A atividade permitiu aplicar na prática conceitos de banco de dados relacionais, importação de dados e consultas SQL, demonstrando a importância da organização e persistência de dados em projetos de Inteligência Artificial aplicados ao agronegócio.
